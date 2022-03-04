@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #121212;
+  color: rgba(255, 255, 255, 0.8);
+  height: 100vh;
+  overflow-x: hidden;
+}
